@@ -4,7 +4,7 @@
 
 Name:           qtsoap
 Version:        2.7
-Release:        3
+Release:        4
 Summary:        The Simple Object Access Protocol Qt-based client side library
 
 Group:          Development/C
