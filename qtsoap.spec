@@ -9,7 +9,7 @@ Summary:        The Simple Object Access Protocol Qt-based client side library
 
 Group:          Development/C
 License:        LGPLv2 with exceptions or GPLv3
-URL:            http://qt.nokia.com/products/appdev/add-on-products/catalog/4/Utilities/qtsoap/
+URL:            https://qt.nokia.com/products/appdev/add-on-products/catalog/4/Utilities/qtsoap/
 Source0:        http://get.qt.nokia.com/qt/solutions/lgpl/qtsoap-%{version}_1-opensource.tar.gz
 Patch0:         qtsoap-2.7_1-opensource-install-pub-headers.patch
 
