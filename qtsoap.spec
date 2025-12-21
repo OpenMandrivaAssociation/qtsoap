@@ -14,6 +14,7 @@ Source0:        http://get.qt.nokia.com/qt/solutions/lgpl/qtsoap-%{version}_1-op
 Patch0:         qtsoap-2.7_1-opensource-install-pub-headers.patch
 
 
+BuildRequires:	make
 BuildRequires:  qt4-devel
 
 %description
